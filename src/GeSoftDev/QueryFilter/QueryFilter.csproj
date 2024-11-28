@@ -4,9 +4,9 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <Authors>Niko Dzneladze</Authors>
-    <Company>GeSoftDev</Company>
+    <PackageId>GeSoftDev.QueryFilter</PackageId>
     <PackageDescription>Tools to simplify query filter building.</PackageDescription>
     <PackageTags>Expression;Query;Builder;Filter;IQueryable;EF</PackageTags>
     <RepositoryUrl>https://github.com/GeSoftDev/QueryFilter</RepositoryUrl>
